@@ -1,3 +1,10 @@
+html{
+  font-family: ;
+  color:  ;
+  background-color: silver ;
+
+}
+
 body {
   font-family: "Arial", "Helvetica", sans-serif;
 }
@@ -8,9 +15,9 @@ body {
   border-width: 5px;
 }
 
-/* deixando o fundo ridículo */
+/* deixando o body ridículo */
 body {
-  background: ;
+  background: lightpink ;
 }
 
 #cabecalho {
@@ -25,17 +32,17 @@ body {
 }
 
 h1 {
-  background-image: url(sobre-background.jpg);
+color: brown;
+  // background-image: url(../imagens/img1.jpg);
+}
+
+h2 {
+  
 }
 
 h3 {
-  color: rgb(255, 100, 50);
-  background: #F2EDED;
-}
-
-p {
-background-color: ;
-color: #2B6B2B;
+  color: silver);
+  background: white ;
 }
 
 p {
