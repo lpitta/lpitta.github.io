@@ -48,7 +48,7 @@ h3 {
 
 }
 
-h1, h2, h3, p {
+h1, h2, h3, h4, p {
   padding: 10px;
   line-height: 23px;  /* tamanho da altura de cada linha */
   letter-spacing: 2px;   /* tamanho do espaço entre cada letra */
